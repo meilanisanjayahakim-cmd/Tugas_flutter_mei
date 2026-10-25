@@ -6,8 +6,7 @@ void main() {
   
     
   print('Nama: $nama');
-  print('umur: $umur tahun');
-  print('kota: $kota');
-  print('status: $status');
- 
+  print('Umur: $umur tahun');
+  print('Kota: $kota');
+  print('Status: $status');
 }
